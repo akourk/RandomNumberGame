@@ -1,10 +1,8 @@
 // Author       :   Alex Kourkoumelis
 // Date         :   3/20/2018
 // Title        :   RandomNumberGame
-// Description  :   Reads a .txt file in the format FNAME LNAME 00-00-0000
-//              :   Stores the information into 2 structs, date, and contact
-//              :   Then compares the current date to the date of each contact
-//              :   Lists all contacts between the ages of 18 and 25
+// Description  :   Machine picks a random number.
+//              :   It's the users' goal to pick that number.
 
 
 #include <stdio.h>
